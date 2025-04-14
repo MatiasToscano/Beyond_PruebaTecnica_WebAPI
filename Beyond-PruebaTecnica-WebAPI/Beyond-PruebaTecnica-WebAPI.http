@@ -1,0 +1,6 @@
+@Beyond_PruebaTecnica_WebAPI_HostAddress = http://localhost:5077
+
+GET {{Beyond_PruebaTecnica_WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
